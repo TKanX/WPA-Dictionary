@@ -9,7 +9,11 @@ Total number of passwords: **276 million**
 
 ### Download
 
-Download the dictionary from [this link](https://github.com/TKanX/WPA-Dictionary/releases/download/passwords/WPA-Dictionary-276M.zip).
+Download the dictionary in your preferred format:
+
+- [WPA-Dictionary-276M.zip (381MB)](https://github.com/TKanX/WPA-Dictionary/releases/download/passwords/WPA-Dictionary-276M.zip)
+- [WPA-Dictionary-276M.tar.gz (665MB)](https://github.com/TKanX/WPA-Dictionary/releases/download/passwords/WPA-Dictionary-276M.tar.gz)
+- [WPA-Dictionary-276M.7z (105MB)](https://github.com/TKanX/WPA-Dictionary/releases/download/passwords/WPA-Dictionary-276M.7z)
 
 ### Usage
 
