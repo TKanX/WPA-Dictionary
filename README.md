@@ -3,13 +3,13 @@
 WPA Password Dictionary - **Used to crack Wifi passwords**.
 
 Current size: **3.1GB**
-Total number of passwords: **310 million**
+Total number of passwords: **276 million**
 
 ## Getting Started
 
 ### Download
 
-Download the dictionary from [this link](https://github.com/TKanX/WPA-Dictionary/releases/download/passwords/WPA-Dictionary-310M.zip).
+Download the dictionary from [this link](https://github.com/TKanX/WPA-Dictionary/releases/download/passwords/WPA-Dictionary-276M.zip).
 
 ### Usage
 
